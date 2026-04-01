@@ -106,6 +106,12 @@ AI/
 * 멀티모달 AI 응용 프로젝트
 * 풀스택 웹 서비스 개발 프로젝트
 
+**8. 미니프로젝트**
+[AIVLE 서재](https://github.com/joon0329/Aivleschool-5th-miniproject-back)
+
+**9. 빅프로젝트**
+[BrandPilot](https://github.com/AivleSchool-BigProject/branding-backend)
+
 
 ---
 
